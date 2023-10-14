@@ -1,1 +1,1 @@
-Implemented a model which can detect the type of damage in multilabel data. Worked on Data preprocessing, Data augmentation and used VGG-16 pre-trained CNN model as the base model. Used BCE loss and Binary Accuracy as a metric and achieved test accuracy of 90%
+Implemented a model which can detect the type of damage in multilabel data. Worked on Data preprocessing, Data augmentation and used VGG-16, resnet18 pretrained CNN model as the base model and finetuned to the dataset. secured 2nd position in Hackathon 
