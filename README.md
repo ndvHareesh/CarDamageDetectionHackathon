@@ -1,1 +1,1 @@
-Implemented a model which can detect the type of damage in multilabel data. Worked on Data preprocessing, Data augmentation and used VGG-16, resnet18 pretrained CNN model as the base model and finetuned to the dataset. secured 2nd position in Hackathon 
+Implemented a model which can detect the type of damage in multilabel data. Worked on Data preprocessing, Data augmentation and used VGG-16, resnet18 pretrained CNN model as the base model and finetuned to the dataset. secured 3rd position in Hackathon 
